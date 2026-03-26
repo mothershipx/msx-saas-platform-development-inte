@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: SaaS Platform Development & Integration
+slug: saas-platform-development-inte
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: saas-platform-development-inte.msx.dev
